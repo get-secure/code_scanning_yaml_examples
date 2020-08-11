@@ -1,1 +1,1 @@
-# code_scanning_yaml_examples
+# code scanning yaml examples
